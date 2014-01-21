@@ -1,6 +1,6 @@
 # One Month Rails 
 
 This the Pinteresting sample application 
-[*One Month Rails*] (http://mattangriffel.com)
+[*One Month Rails*] (http://jackelly.com)
 
-by [Mattan Giffel](htto://mattangriffel.com)
+by [Jack Kelly](http://jackelly.com)
